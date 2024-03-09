@@ -14,17 +14,16 @@ The best L2 EVM Sniper Bot Have Ever Seen
 #Features
 
 * Buy Mode : 
- Allow you to buy approve and monitor price just in 1 command
- Buy only token that already live (Liquidity added , trading enabled)
- Only 1 wallet allowed
-
+ - Allow you to buy approve and monitor price just in 1 command
+ - Buy only token that already live (Liquidity added , trading enabled)
+ - Only 1 wallet allowed
+----------------------------
 * Monitory Price : 
- Allow you to monitor your investment 
- Sell With Hotkeys
-
-
+ - Allow you to monitor your investment 
+ - Sell With Hotkeys
+----------------------------
 * Latency Test : 
- Test latency of your node
+ - Test latency of your node
 
 #PREMIUM FEATURES
 

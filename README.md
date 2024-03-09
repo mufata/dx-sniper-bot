@@ -1,8 +1,8 @@
 DX-SNIPER BOT
-
+ <img src="./assets/display.jpg">
 The best L2 EVM Sniper Bot Have Ever Seen
 
-#Compatible for all EVM Chain especially Layer 2 
+# Compatible for all EVM Chain especially Layer 2 
 - Ethereum
 - Base 
 - Pulse
@@ -11,21 +11,21 @@ The best L2 EVM Sniper Bot Have Ever Seen
 - Etc..
 
 
-#Features
+# Features
 
 * Buy Mode : 
  - Allow you to buy approve and monitor price just in 1 command
  - Buy only token that already live (Liquidity added , trading enabled)
  - Only 1 wallet allowed
 ----------------------------
-* Monitory Price : 
+* Monitor Price : 
  - Allow you to monitor your investment 
  - Sell With Hotkeys
 ----------------------------
 * Latency Test : 
  - Test latency of your node
 
-#PREMIUM FEATURES
+# PREMIUM FEATURES
 
 * Spam Snipe : 
 - Allow you to snipe token with only just 1 command
@@ -34,7 +34,7 @@ The best L2 EVM Sniper Bot Have Ever Seen
 - Listen any Hex Method Function
 
 
-#MORE TO COME
+# MORE TO COME
 
 * Take Profit & Stop Loss
 * Telegram Scrapper
